@@ -3,7 +3,7 @@ This is repository for studing about Deforming Autoencoding
 Deforming Autoencoder 의 구조를 이용해 필요로 하는 이미지의 shape을 분리해 내는 기술을 구현하고자 함
 
 
-
+[![DAE Concept](/img/thumnail_DAE.PNG)](https://youtu.be/hwVGD6BYZd0)
 
 # Deforming Autoencoder 의 개념
 ***
